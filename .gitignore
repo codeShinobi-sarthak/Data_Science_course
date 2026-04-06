@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Large files
+*.csv
+*.zip
+*.pkl
+*.model
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# folder
+/09_Project_3_RAG_based_AI_Assistant/

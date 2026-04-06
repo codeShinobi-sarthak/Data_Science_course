@@ -1,0 +1,6 @@
+[pycodestyle]
+ignore = E303, E231
+max-line-length = 100
+exclude = venv,build,__pycache__
+show-source = True
+count = True
